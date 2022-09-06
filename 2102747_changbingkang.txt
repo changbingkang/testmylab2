@@ -1,4 +1,4 @@
 Hello
 changbingkang
 https://github.com/changbingkang/mylab2.git
-test adding
+test adding branch 2
